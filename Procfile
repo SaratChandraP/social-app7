@@ -1,0 +1,1 @@
+web: gunicorn socialApp:app --log-file=-
